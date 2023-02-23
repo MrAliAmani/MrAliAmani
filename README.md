@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAliAmani
-- 👀 I’m interested in android and ios development.
-- 🌱 I’m currently learning flutter and android development with java and kotlin.
-- 💞️ I’m looking to collaborate on mobile app development.
+- 👀 I’m interested in data science and deep learning.
+- 🌱 I’m currently learning transfer learning with tensorflow.
+- 💞️ I’m looking to collaborate on data science problems.
 - 📫 How to reach me 
     Email : aliamani019@gmail.com
     Linkedin : @www.linkedin.com/in/aliamani
@@ -9,3 +9,7 @@
     Instagram : https://www.instagram.com/aliamani.128/
     Facebook : https://www.facebook.com/ali.amani.39589149/
     Whatsapp : 09120315437
+- Skills
+    - Python
+    - Tensorflow
+    - Deep learning
