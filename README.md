@@ -46,18 +46,20 @@ Data scientist / Machine learning engineer
 
 ## Projects
 
-[Food vision]()
-[Face expression]()
-[Webcam face detection]()
-[ParsBERT sentiment analysis]()
-[SkimLit]()
-[Kaggle introduction to NLP]()
-[Naive bayes]()
-[House price prediction]()
-[BTC prediction]()
-[Titanic]()
-[Deep learning fundamentals]() [projects]()
-[Clustering project]()
+* [Sensor segmentation algorithms](https://github.com/MrAliAmani/SensorSegmentation)
+* [Pose estimation project](https://github.com/MrAliAmani/PoseEstimation)
+* [Food vision](https://github.com/MrAliAmani/FoodVision)
+* [Face expression](https://www.kaggle.com/code/mraliamani/fer2013)
+* [Webcam face detection](https://github.com/MrAliAmani/WebcamFaceDetection)
+* [ParsBERT sentiment analysis](https://github.com/MrAliAmani/ParsBERT-Sentiment-Analysis)
+* [SkimLit](https://github.com/MrAliAmani/SkimLit)
+* [Kaggle introduction to NLP](https://github.com/MrAliAmani/kaggle_introduction_to_nlp)
+* [Naive bayes](https://www.kaggle.com/code/mraliamani/naive-bayes)
+* [House price prediction](https://github.com/MrAliAmani/BTC-prediction)
+* [BTC prediction](https://www.kaggle.com/code/mraliamani/house-price)
+* [Titanic](https://github.com/MrAliAmani/Titanic)
+* [Deep learning fundamentals](https://github.com/MrAliAmani/deeplearning_fundamentals) projects
+* [Clustering project](https://www.kaggle.com/code/mraliamani/tabular-clustering)
 
 ## Certifications
 
