@@ -1,6 +1,6 @@
 # Ali Amani
 
-Data scientist / Machine learning engineer
+Machine learning engineer
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAliAmani)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mraliamani)
@@ -10,7 +10,7 @@ Data scientist / Machine learning engineer
 
 ### Machine learning intern
 
-**Become.expert** 2024/03-2024/06
+**Become.Expert** 2024/03-2024/06
 
 * Conducted data cleaning, preparation and feature engineering tasks on a dataset of house features to predict sales prices.
 * Conducted classification to identify the survival of individuals in a ship crash.
@@ -22,7 +22,7 @@ Data scientist / Machine learning engineer
 **Rastava Academy** 2024/01-2024/03
 
 * Assisted in implementing feature selection algorithms and preprocessing tasks on car and people images.
-* Collaborated in developing video face recognition models using webcam and Opencv.
+* Collaborated in developing video face detection models using webcam and Opencv.
 
 ### NLP intern
 
@@ -43,6 +43,7 @@ Data scientist / Machine learning engineer
 * Sensor data segmentation
 * Algorithms and Optimization
 * Problem solving
+* Docker
 
 ## Projects
 
@@ -53,7 +54,7 @@ Data scientist / Machine learning engineer
 * [Webcam face detection](https://github.com/MrAliAmani/WebcamFaceDetection)
 * [ParsBERT sentiment analysis](https://github.com/MrAliAmani/ParsBERT-Sentiment-Analysis)
 * [SkimLit](https://github.com/MrAliAmani/SkimLit)
-* [Kaggle introduction to NLP](https://github.com/MrAliAmani/kaggle_introduction_to_nlp)
+* [Disaster tweets](https://github.com/MrAliAmani/DisasterTweets)
 * [Naive bayes](https://www.kaggle.com/code/mraliamani/naive-bayes)
 * [House price prediction](https://github.com/MrAliAmani/BTC-prediction)
 * [BTC prediction](https://www.kaggle.com/code/mraliamani/house-price)
