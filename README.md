@@ -51,7 +51,6 @@ Machine learning engineer
 * [Food vision](https://github.com/MrAliAmani/FoodVision)
 * [Face expression](https://www.kaggle.com/code/mraliamani/fer2013)
 * [Webcam face detection](https://github.com/MrAliAmani/WebcamFaceDetection)
-* [ParsBERT sentiment analysis](https://github.com/MrAliAmani/ParsBERT-Sentiment-Analysis)
 * [SkimLit](https://github.com/MrAliAmani/SkimLit)
 * [Disaster tweets](https://github.com/MrAliAmani/DisasterTweets)
 * [Naive bayes](https://www.kaggle.com/code/mraliamani/naive-bayes)
